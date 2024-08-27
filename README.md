@@ -77,7 +77,7 @@ sudo apt-get install ros-noetic-geometry-msgs ros-noetic-sensor-msgs ros-noetic-
 ## 기능
 
 - **Person Selection**: GUI를 사용하여 로봇이 따라갈 사람을 선택할 수 있습니다. YOLOv5가 사용되어 사람을 탐지하고 선택합니다.
-- **Human Following**: 선택된 사람을 따라가도록 GUI에서 "Human Following" 버튼을 눌러 시작할 수 있습니다. 로봇은 사람과의 안전 거리를 1.5m 유지합니다.
+- **Human Following**: 선택된 사람을 따라가도록 GUI에서 "Human Following" 버튼을 눌러 시작할 수 있습니다. 로봇은 사람과의 안전 거리를 0.7m 유지합니다.
 - **Distance Display**: GUI는 실시간으로 선택된 사람과 로봇 간의 거리를 표시합니다.
 
 ## Troubleshooting
