@@ -1,4 +1,3 @@
-```markdown
 # Human Following Robot with ROS and YOLOv5
 
 이 프로젝트는 ROS, YOLOv5, 그리고 뎁스 카메라를 사용하여 인간을 따라가는 로봇을 구현합니다. GUI를 통해 선택된 사람을 로봇이 인식하고, 일정 거리를 유지하면서 따라갑니다. 시스템은 ROS와 Python을 기반으로 하며, PyQt를 GUI로, OpenCV를 이미지 처리에 사용합니다.
